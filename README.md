@@ -71,3 +71,7 @@ KDManager/
 
 MIT. Делайте что хотите.
 Принимаю предложения замечания и оскорбления. Только учусь
+
+
+<img width="3440" height="1393" alt="main-screen" src="https://github.com/user-attachments/assets/71d89a33-f882-4e42-ad0f-bd2da8349b4a" />
+
